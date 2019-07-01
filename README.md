@@ -1,6 +1,6 @@
 # RushArea-DynamicLight
 
-2D dunamic lighting demo for college final project
+2D Dynamic lighting demo for college final project
 
 ### Demo
 
